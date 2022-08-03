@@ -1,6 +1,7 @@
 ### 🗿 Technology Stack:
 
 <img alt="javas" src="https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=fff" />&nbsp;
+<img alt="types" src="https://img.shields.io/badge/typescript-177cef.svg?&style=for-the-badge&logo=typescript&logoColor=fff" />&nbsp;
 <img alt="php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />&nbsp;
 <img alt="py" src="https://img.shields.io/badge/python-1700B6.svg?&style=for-the-badge&logo=python&logoColor=fff" />&nbsp;
 <img alt="html" src="https://img.shields.io/badge/html-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=fff" />&nbsp;
