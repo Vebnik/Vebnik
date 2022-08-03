@@ -17,4 +17,4 @@
 <img alt="notion" src="https://img.shields.io/badge/notion-lightgrey?style=for-the-badge&logo=notion" />&nbsp;
 
 ### 🧬 Statistic:
-<img height="195px" align="center" alt="Vebnik" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Vebnik&theme=algolia&layout=compact" />
+<img height="195px" align="center" alt="Vebnik" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Vebnik&theme=algolia&layout=compact&langs_count=10" />
