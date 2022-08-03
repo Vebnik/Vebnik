@@ -15,3 +15,6 @@
 <img alt="confluence" src="https://img.shields.io/badge/confluence-1F4D7D.svg?&style=for-the-badge&logo=confluence&logoColor=fff" />&nbsp;
 <img alt="webstorm" src="https://img.shields.io/badge/webstorm-2021.3-blue?logo=webstorm&style=for-the-badge" />&nbsp;
 <img alt="notion" src="https://img.shields.io/badge/notion-lightgrey?style=for-the-badge&logo=notion" />&nbsp;
+
+### 🧬 Statistic:
+<img height="195px" align="center" alt="Vebnik" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Vebnik&theme=algolia&layout=compact" />
