@@ -13,7 +13,7 @@
 <img alt="git" src="https://img.shields.io/badge/git-F05033.svg?&style=for-the-badge&logo=git&logoColor=fff" />&nbsp;
 <img alt="jira" src="https://img.shields.io/badge/jira-2D80FF.svg?&style=for-the-badge&logo=jira&logoColor=fff" />&nbsp;
 <img alt="confluence" src="https://img.shields.io/badge/confluence-1F4D7D.svg?&style=for-the-badge&logo=confluence&logoColor=fff" />&nbsp;
-<img alt="webstorm" src="https://img.shields.io/badge/webstorm-2021.3-blue?logo=webstorm&style=for-the-badge" />&nbsp;
+<img alt="vscode" src="https://img.shields.io/badge/vscode-blue?logo=visualstudio&style=for-the-badge" />&nbsp;
 <img alt="notion" src="https://img.shields.io/badge/notion-lightgrey?style=for-the-badge&logo=notion" />&nbsp;
 
 ### 🧬 Statistic:
