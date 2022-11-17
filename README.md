@@ -18,3 +18,7 @@
 
 ### 🧬 Statistic:
 <img height="195px" align="center" alt="Vebnik" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Vebnik&theme=algolia&layout=compact&langs_count=10" />
+
+### 🔥 Other
+<img width="400px" align="center" alt="Vebnik" src="https://www.codewars.com/users/nikVebEvs/badges/large" />
+
