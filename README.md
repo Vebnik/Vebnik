@@ -18,7 +18,7 @@
 <img alt="notion" src="https://img.shields.io/badge/notion-lightgrey?style=for-the-badge&logo=notion" />&nbsp;
 
 ### 🧬 Statistic:
-<img height="195px" align="center" alt="Vebnik" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Vebnik&theme=algolia&layout=compact&langs_count=10&hide=html,css,scss,javascript" />
+<img height="195px" align="center" alt="Vebnik" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Vebnik&theme=algolia&layout=compact&langs_count=10&hide=html,css,scss,javascript,powershell" />
 
 ### 🔥 Other
 <img width="400px" align="center" alt="Vebnik" src="https://www.codewars.com/users/nikVebEvs/badges/large" />
